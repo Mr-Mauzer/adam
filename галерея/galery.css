@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../img/3ef9bdfc6dff169c101b7eacbbf5f33f.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.pizza {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border: solid 3px orange;
+}
